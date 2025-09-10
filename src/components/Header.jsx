@@ -17,7 +17,7 @@ const Header = () => {
       <nav className="container mx-auto px-4 py-2 sm:py-3 md:py-4 flex items-center justify-between">
         <div className="flex items-center space-x-2 sm:space-x-3">
           <img 
-            src="./public/images/logo5.png" 
+            src="/images/logo5.png" 
             alt="Sonido Outflow Logo" 
             className="h-12 sm:h-16 md:h-20 lg:h-24 w-auto max-w-[120px] sm:max-w-[160px] md:max-w-[200px] lg:max-w-none"
           />

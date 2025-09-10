@@ -15,7 +15,7 @@ const Footer = () => {
             viewport={{ once: true }}
           >
             <img 
-              src="./public/images/logo5.png" 
+              src="/images/logo5.png" 
               alt="Sonido Outflow Logo" 
               className="h-24 w-auto mb-4"
             />

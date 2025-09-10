@@ -44,7 +44,7 @@ const Hero = () => {
           </motion.div>
 
           <img 
-            src="./public/images/logo5.png" 
+            src="/images/logo5.png" 
             alt="Sonido Outflow" 
             className="w-full max-w-4xl mx-auto rounded-2xl shadow-2xl"
           />
